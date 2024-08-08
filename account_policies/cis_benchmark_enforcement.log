@@ -1,0 +1,1 @@
+2024-07-05 11:44:52,982 - ERROR - Error setting account lockout threshold: Command 'secedit /configure /db secedit.sdb /cfg "C:\Windows\inf\defltbase.inf" /areas SECURITYPOLICY /areas ACCOUNTLOCKOUT /override' returned non-zero exit status 1.

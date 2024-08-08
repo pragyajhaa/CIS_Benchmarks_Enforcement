@@ -1,0 +1,9 @@
+
+[Unicode]
+Unicode=yes
+[System Access]
+LockoutDuration=15
+[Version]
+signature="$CHICAGO$"
+Revision=1
+        

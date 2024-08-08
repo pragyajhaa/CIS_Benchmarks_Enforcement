@@ -1,0 +1,151 @@
+2024-07-20 20:42:37,148 - INFO - Admin User: Administrator
+2024-07-20 20:42:37,148 - INFO - Admin User: pragy
+2024-07-20 20:42:37,149 - INFO - Admin User: The command completed successfully.
+2024-07-20 20:42:37,211 - INFO - Privileges:
+2024-07-20 20:42:37,211 - INFO - 
+2024-07-20 20:42:37,211 - INFO - PRIVILEGES INFORMATION
+2024-07-20 20:42:37,211 - INFO - ----------------------
+2024-07-20 20:42:37,212 - INFO - 
+2024-07-20 20:42:37,212 - INFO - Privilege Name                            Description                                                        State   
+2024-07-20 20:42:37,212 - INFO - ========================================= ================================================================== ========
+2024-07-20 20:42:37,212 - INFO - SeIncreaseQuotaPrivilege                  Adjust memory quotas for a process                                 Disabled
+2024-07-20 20:42:37,212 - INFO - SeSecurityPrivilege                       Manage auditing and security log                                   Disabled
+2024-07-20 20:42:37,212 - INFO - SeTakeOwnershipPrivilege                  Take ownership of files or other objects                           Disabled
+2024-07-20 20:42:37,212 - INFO - SeLoadDriverPrivilege                     Load and unload device drivers                                     Disabled
+2024-07-20 20:42:37,212 - INFO - SeSystemProfilePrivilege                  Profile system performance                                         Disabled
+2024-07-20 20:42:37,212 - INFO - SeSystemtimePrivilege                     Change the system time                                             Disabled
+2024-07-20 20:42:37,212 - INFO - SeProfileSingleProcessPrivilege           Profile single process                                             Disabled
+2024-07-20 20:42:37,212 - INFO - SeIncreaseBasePriorityPrivilege           Increase scheduling priority                                       Disabled
+2024-07-20 20:42:37,212 - INFO - SeCreatePagefilePrivilege                 Create a pagefile                                                  Disabled
+2024-07-20 20:42:37,212 - INFO - SeBackupPrivilege                         Back up files and directories                                      Disabled
+2024-07-20 20:42:37,212 - INFO - SeRestorePrivilege                        Restore files and directories                                      Disabled
+2024-07-20 20:42:37,212 - INFO - SeShutdownPrivilege                       Shut down the system                                               Disabled
+2024-07-20 20:42:37,212 - INFO - SeDebugPrivilege                          Debug programs                                                     Disabled
+2024-07-20 20:42:37,213 - INFO - SeSystemEnvironmentPrivilege              Modify firmware environment values                                 Disabled
+2024-07-20 20:42:37,213 - INFO - SeChangeNotifyPrivilege                   Bypass traverse checking                                           Enabled 
+2024-07-20 20:42:37,213 - INFO - SeRemoteShutdownPrivilege                 Force shutdown from a remote system                                Disabled
+2024-07-20 20:42:37,213 - INFO - SeUndockPrivilege                         Remove computer from docking station                               Disabled
+2024-07-20 20:42:37,213 - INFO - SeManageVolumePrivilege                   Perform volume maintenance tasks                                   Disabled
+2024-07-20 20:42:37,214 - INFO - SeImpersonatePrivilege                    Impersonate a client after authentication                          Enabled 
+2024-07-20 20:42:37,214 - INFO - SeCreateGlobalPrivilege                   Create global objects                                              Enabled 
+2024-07-20 20:42:37,214 - INFO - SeIncreaseWorkingSetPrivilege             Increase a process working set                                     Disabled
+2024-07-20 20:42:37,215 - INFO - SeTimeZonePrivilege                       Change the time zone                                               Disabled
+2024-07-20 20:42:37,215 - INFO - SeCreateSymbolicLinkPrivilege             Create symbolic links                                              Disabled
+2024-07-20 20:42:37,215 - INFO - SeDelegateSessionUserImpersonatePrivilege Obtain an impersonation token for another user in the same session Disabled
+2024-07-20 20:42:37,749 - INFO - Description      FixComments  HotFixID   InstallDate  InstalledBy          InstalledOn  Name  ServicePackInEffect  Status  
+2024-07-20 20:42:37,749 - INFO - 
+2024-07-20 20:42:37,749 - INFO - Update                        KB5039895               NT AUTHORITY\SYSTEM  7/17/2024                                       
+2024-07-20 20:42:37,756 - INFO - 
+2024-07-20 20:42:37,756 - INFO - Update                        KB5027397               NT AUTHORITY\SYSTEM  7/17/2024                                       
+2024-07-20 20:42:37,757 - INFO - 
+2024-07-20 20:42:37,757 - INFO - Update                        KB5031274               NT AUTHORITY\SYSTEM  7/17/2024                                       
+2024-07-20 20:42:37,759 - INFO - 
+2024-07-20 20:42:37,759 - INFO - Update                        KB5032381               NT AUTHORITY\SYSTEM  7/17/2024                                       
+2024-07-20 20:42:37,759 - INFO - 
+2024-07-20 20:42:37,759 - INFO - Security Update               KB5040442               NT AUTHORITY\SYSTEM  7/17/2024                                       
+2024-07-20 20:42:37,760 - INFO - 
+2024-07-20 20:42:37,760 - INFO - Update                        KB5039338               NT AUTHORITY\SYSTEM  7/17/2024                                       
+2024-07-20 20:42:37,761 - INFO - 
+2024-07-20 20:42:37,761 - INFO - 
+2024-07-20 20:42:37,761 - INFO - 
+2024-07-20 20:42:37,762 - INFO - HotFixID   Name                                                         Windows Version               
+2024-07-20 20:42:37,762 - INFO - KB5039895  Unknown                                                      Unknown                       
+2024-07-20 20:42:37,762 - INFO - KB5027397  Feature Update to Windows 11, version 23H2                   Windows 11, version 23H2      
+2024-07-20 20:42:37,763 - INFO - KB5031274  Windows 11, version 22H2 out-of-box experience (OOBE)        Windows 11, version 22H2      
+2024-07-20 20:42:37,763 - INFO - KB5032381  Windows 11, version 22H2 out-of-box experience (OOBE)        Windows 11, version 22H2      
+2024-07-20 20:42:37,764 - INFO - KB5040442  Unknown                                                      Unknown                       
+2024-07-20 20:42:37,764 - INFO - KB5039338  Windows 11 servicing stack update                            Windows 11, version 21H2      
+2024-07-20 20:42:37,834 - INFO - UserName      
+2024-07-20 20:42:37,834 - INFO - Pragya\pragy
+2024-07-20 20:42:37,881 - INFO - 
+User: pragy
+2024-07-20 20:42:37,881 - INFO - User name                    pragy
+2024-07-20 20:42:37,882 - INFO - Full Name                    Pragya Jha
+2024-07-20 20:42:37,882 - INFO - Comment                      
+2024-07-20 20:42:37,882 - INFO - User's comment               
+2024-07-20 20:42:37,883 - INFO - Country/region code          000 (System Default)
+2024-07-20 20:42:37,884 - INFO - Account active               Yes
+2024-07-20 20:42:37,884 - INFO - Account expires              Never
+2024-07-20 20:42:37,884 - INFO - 
+2024-07-20 20:42:37,885 - INFO - Password last set            10-11-2023 17:02:19
+2024-07-20 20:42:37,885 - INFO - Password expires             Never
+2024-07-20 20:42:37,885 - INFO - Password changeable          11-11-2023 17:02:19
+2024-07-20 20:42:37,885 - INFO - Password required            Yes
+2024-07-20 20:42:37,886 - INFO - User may change password     Yes
+2024-07-20 20:42:37,886 - INFO - 
+2024-07-20 20:42:37,887 - INFO - Workstations allowed         All
+2024-07-20 20:42:37,887 - INFO - Logon script                 
+2024-07-20 20:42:37,887 - INFO - User profile                 
+2024-07-20 20:42:37,888 - INFO - Home directory               
+2024-07-20 20:42:37,888 - INFO - Last logon                   Never
+2024-07-20 20:42:37,888 - INFO - 
+2024-07-20 20:42:37,889 - INFO - Logon hours allowed          All
+2024-07-20 20:42:37,889 - INFO - 
+2024-07-20 20:42:37,890 - INFO - Local Group Memberships      *Administrators       *Users                
+2024-07-20 20:42:37,890 - INFO - Global Group memberships     *None                 
+2024-07-20 20:42:37,890 - INFO - The command completed successfully.
+2024-07-20 20:42:37,891 - INFO - 
+2024-07-20 20:42:37,894 - INFO - Rights: Admin
+2024-07-20 20:42:37,897 - INFO - Installed Software:
+2024-07-20 20:42:37,898 - INFO - Planet9 Stub: 1.0.197
+2024-07-20 20:42:37,898 - INFO - Google Play Games beta: 23.5.1015.22
+2024-07-20 20:42:37,899 - INFO - McAfee: 1.20.236.1
+2024-07-20 20:42:37,899 - INFO - Microsoft 365 - en-us: 16.0.17726.20160
+2024-07-20 20:42:37,899 - INFO - Microsoft OneNote - en-us: 16.0.17726.20160
+2024-07-20 20:42:37,899 - INFO - Microsoft Visual C++ 2019 X64 Minimum Runtime - 14.22.27821: 14.22.27821
+2024-07-20 20:42:37,900 - INFO - NitroSense Config: 5.0.1327
+2024-07-20 20:42:37,900 - INFO - User Experience Improvement Program Service: 5.00.3018
+2024-07-20 20:42:37,901 - INFO - Python 3.12.4 Core Interpreter (64-bit): 3.12.4150.0
+2024-07-20 20:42:37,901 - INFO - Python 3.12.4 Standard Library (64-bit): 3.12.4150.0
+2024-07-20 20:42:37,901 - INFO - Microsoft Visual C++ 2019 X64 Additional Runtime - 14.22.27821: 14.22.27821
+2024-07-20 20:42:37,901 - INFO - Python 3.12.4 Tcl/Tk Support (64-bit): 3.12.4150.0
+2024-07-20 20:42:37,902 - INFO - Python 3.12.4 Executables (64-bit): 3.12.4150.0
+2024-07-20 20:42:37,902 - INFO - Python 3.12.4 Development Libraries (64-bit): 3.12.4150.0
+2024-07-20 20:42:37,902 - INFO - Office 16 Click-to-Run Licensing Component: 16.0.17726.20108
+2024-07-20 20:42:37,903 - INFO - Office 16 Click-to-Run Extensibility Component: 16.0.17628.20110
+2024-07-20 20:42:37,903 - INFO - NitroSense Prerequisites: 4.5.975
+2024-07-20 20:42:37,903 - INFO - Python 3.12.4 Test Suite (64-bit): 3.12.4150.0
+2024-07-20 20:42:37,904 - INFO - Python 3.12.4 Documentation (64-bit): 3.12.4150.0
+2024-07-20 20:42:37,904 - INFO - Care Center Service: 4.00.3054
+2024-07-20 20:42:37,905 - INFO - NVIDIA Graphics Driver 546.18: 546.18
+2024-07-20 20:42:37,906 - INFO - NVIDIA GeForce Experience 3.27.0.112: 3.27.0.112
+2024-07-20 20:42:37,906 - INFO - NVIDIA PhysX System Software 9.21.0713: 9.21.0713
+2024-07-20 20:42:37,906 - INFO - NVIDIA FrameView SDK 1.3.8513.32290073: 1.3.8513.32290073
+2024-07-20 20:42:37,907 - INFO - NVIDIA SHIELD Streaming: 7.1.32193813
+2024-07-20 20:42:37,908 - INFO - NVIDIA GPX Common OSS binaries (POCO, OpenSSL, libprotobuf): 7.1
+2024-07-20 20:42:37,909 - INFO - NVIDIA Install Application: 2.1002.408.0
+2024-07-20 20:42:37,909 - INFO - NVIDIA Backend: 39.5.0.0
+2024-07-20 20:42:37,910 - INFO - NVIDIA Container: 1.37
+2024-07-20 20:42:37,910 - INFO - NVIDIA TelemetryApi helper for NvContainer: 1.37
+2024-07-20 20:42:37,910 - INFO - NVIDIA LocalSystem Container: 1.37
+2024-07-20 20:42:37,911 - INFO - NVIDIA Message Bus for NvContainer: 1.34
+2024-07-20 20:42:37,912 - INFO - NVIDIA NVAPI Monitor plugin for NvContainer: 1.0
+2024-07-20 20:42:37,913 - INFO - NVIDIA NetworkService Container: 1.37
+2024-07-20 20:42:37,913 - INFO - NVIDIA Session Container: 1.37
+2024-07-20 20:42:37,913 - INFO - NVIDIA User Container: 1.37
+2024-07-20 20:42:37,914 - INFO - NVIDIA NvModuleTracker: 6.14.25214.24630
+2024-07-20 20:42:37,914 - INFO - NVIDIA NodeJS: 3.27.0.112
+2024-07-20 20:42:37,914 - INFO - NVIDIA Platform Controllers and Framework: 536.80
+2024-07-20 20:42:37,915 - INFO - NVIDIA Watchdog Plugin for NvContainer: 1.37
+2024-07-20 20:42:37,915 - INFO - NVIDIA Telemetry Client: 17.1.7.0
+2024-07-20 20:42:37,915 - INFO - NVIDIA Virtual Host Controller: 3.05.0.1
+2024-07-20 20:42:37,915 - INFO - Nvidia Share: 3.27.0.112
+2024-07-20 20:42:37,915 - INFO - NVIDIA ShadowPlay 3.27.0.112: 3.27.0.112
+2024-07-20 20:42:37,916 - INFO - NVIDIA SHIELD Wireless Controller Driver: 3.27.0.94
+2024-07-20 20:42:37,916 - INFO - NVIDIA Virtual Audio 4.49.0.0: 4.49.0.0
+2024-07-20 20:42:37,917 - INFO - Microsoft Update Health Tools: 5.72.0.0
+2024-07-20 20:42:37,917 - INFO - Python 3.12.4 Add to Path (64-bit): 3.12.4150.0
+2024-07-20 20:42:37,917 - INFO - Python 3.12.4 pip Bootstrap (64-bit): 3.12.4150.0
+2024-07-20 20:42:37,918 - INFO - Brave: 126.1.67.134
+2024-07-20 20:42:37,919 - INFO - Google Chrome: 126.0.6478.183
+2024-07-20 20:42:37,919 - INFO - Microsoft Edge: 126.0.2592.113
+2024-07-20 20:42:37,920 - INFO - Microsoft Edge Update: 1.3.193.5
+2024-07-20 20:42:37,920 - INFO - Microsoft Edge WebView2 Runtime: 126.0.2592.113
+2024-07-20 20:42:37,920 - INFO - Microsoft Visual C++ 2019 X86 Additional Runtime - 14.25.28508: 14.25.28508
+2024-07-20 20:42:37,920 - INFO - NitroSense Installer: 4.5.975
+2024-07-20 20:42:37,921 - INFO - Microsoft Visual C++ 2019 X86 Minimum Runtime - 14.25.28508: 14.25.28508
+2024-07-20 20:42:37,921 - INFO - WebAdvisor by McAfee: 4.1.1.914
+2024-07-20 20:42:37,921 - INFO - Python Launcher: 3.12.4150.0
+2024-07-20 20:42:37,922 - INFO - Microsoft Visual C++ 2015-2019 Redistributable (x64) - 14.22.27821: 14.22.27821.0
+2024-07-20 20:42:37,923 - INFO - Microsoft Visual C++ 2015-2019 Redistributable (x86) - 14.25.28508: 14.25.28508.3
+2024-07-20 20:42:37,923 - INFO - Acer Configuration Manager: 2.5.22250

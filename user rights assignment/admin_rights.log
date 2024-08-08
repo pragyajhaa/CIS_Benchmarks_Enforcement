@@ -1,0 +1,61 @@
+2024-07-10 09:58:10,074 - INFO - 
+2024-07-10 09:58:10,075 - INFO - PRIVILEGES INFORMATION
+2024-07-10 09:58:10,075 - INFO - ----------------------
+2024-07-10 09:58:10,076 - INFO - 
+2024-07-10 09:58:10,076 - INFO - Privilege Name                            Description                                                        State   
+2024-07-10 09:58:10,077 - INFO - ========================================= ================================================================== ========
+2024-07-10 09:58:10,078 - INFO - SeIncreaseQuotaPrivilege                  Adjust memory quotas for a process                                 Disabled
+2024-07-10 09:58:10,078 - INFO - SeSecurityPrivilege                       Manage auditing and security log                                   Disabled
+2024-07-10 09:58:10,079 - INFO - SeTakeOwnershipPrivilege                  Take ownership of files or other objects                           Disabled
+2024-07-10 09:58:10,080 - INFO - SeLoadDriverPrivilege                     Load and unload device drivers                                     Disabled
+2024-07-10 09:58:10,081 - INFO - SeSystemProfilePrivilege                  Profile system performance                                         Disabled
+2024-07-10 09:58:10,082 - INFO - SeSystemtimePrivilege                     Change the system time                                             Disabled
+2024-07-10 09:58:10,082 - INFO - SeProfileSingleProcessPrivilege           Profile single process                                             Disabled
+2024-07-10 09:58:10,083 - INFO - SeIncreaseBasePriorityPrivilege           Increase scheduling priority                                       Disabled
+2024-07-10 09:58:10,083 - INFO - SeCreatePagefilePrivilege                 Create a pagefile                                                  Disabled
+2024-07-10 09:58:10,084 - INFO - SeBackupPrivilege                         Back up files and directories                                      Disabled
+2024-07-10 09:58:10,084 - INFO - SeRestorePrivilege                        Restore files and directories                                      Disabled
+2024-07-10 09:58:10,085 - INFO - SeShutdownPrivilege                       Shut down the system                                               Disabled
+2024-07-10 09:58:10,085 - INFO - SeDebugPrivilege                          Debug programs                                                     Disabled
+2024-07-10 09:58:10,086 - INFO - SeSystemEnvironmentPrivilege              Modify firmware environment values                                 Disabled
+2024-07-10 09:58:10,087 - INFO - SeChangeNotifyPrivilege                   Bypass traverse checking                                           Enabled 
+2024-07-10 09:58:10,087 - INFO - SeRemoteShutdownPrivilege                 Force shutdown from a remote system                                Disabled
+2024-07-10 09:58:10,088 - INFO - SeUndockPrivilege                         Remove computer from docking station                               Disabled
+2024-07-10 09:58:10,089 - INFO - SeManageVolumePrivilege                   Perform volume maintenance tasks                                   Disabled
+2024-07-10 09:58:10,089 - INFO - SeImpersonatePrivilege                    Impersonate a client after authentication                          Enabled 
+2024-07-10 09:58:10,090 - INFO - SeCreateGlobalPrivilege                   Create global objects                                              Enabled 
+2024-07-10 09:58:10,090 - INFO - SeIncreaseWorkingSetPrivilege             Increase a process working set                                     Disabled
+2024-07-10 09:58:10,091 - INFO - SeTimeZonePrivilege                       Change the time zone                                               Disabled
+2024-07-10 09:58:10,091 - INFO - SeCreateSymbolicLinkPrivilege             Create symbolic links                                              Disabled
+2024-07-10 09:58:10,092 - INFO - SeDelegateSessionUserImpersonatePrivilege Obtain an impersonation token for another user in the same session Disabled
+2024-07-10 09:58:23,711 - ERROR - Error querying privileges for user Administrator.
+2024-07-10 10:02:33,328 - INFO - 
+2024-07-10 10:02:33,329 - INFO - PRIVILEGES INFORMATION
+2024-07-10 10:02:33,330 - INFO - ----------------------
+2024-07-10 10:02:33,331 - INFO - 
+2024-07-10 10:02:33,331 - INFO - Privilege Name                            Description                                                        State   
+2024-07-10 10:02:33,331 - INFO - ========================================= ================================================================== ========
+2024-07-10 10:02:33,332 - INFO - SeIncreaseQuotaPrivilege                  Adjust memory quotas for a process                                 Disabled
+2024-07-10 10:02:33,333 - INFO - SeSecurityPrivilege                       Manage auditing and security log                                   Disabled
+2024-07-10 10:02:33,333 - INFO - SeTakeOwnershipPrivilege                  Take ownership of files or other objects                           Disabled
+2024-07-10 10:02:33,334 - INFO - SeLoadDriverPrivilege                     Load and unload device drivers                                     Disabled
+2024-07-10 10:02:33,334 - INFO - SeSystemProfilePrivilege                  Profile system performance                                         Disabled
+2024-07-10 10:02:33,335 - INFO - SeSystemtimePrivilege                     Change the system time                                             Disabled
+2024-07-10 10:02:33,335 - INFO - SeProfileSingleProcessPrivilege           Profile single process                                             Disabled
+2024-07-10 10:02:33,336 - INFO - SeIncreaseBasePriorityPrivilege           Increase scheduling priority                                       Disabled
+2024-07-10 10:02:33,337 - INFO - SeCreatePagefilePrivilege                 Create a pagefile                                                  Disabled
+2024-07-10 10:02:33,337 - INFO - SeBackupPrivilege                         Back up files and directories                                      Disabled
+2024-07-10 10:02:33,339 - INFO - SeRestorePrivilege                        Restore files and directories                                      Disabled
+2024-07-10 10:02:33,339 - INFO - SeShutdownPrivilege                       Shut down the system                                               Disabled
+2024-07-10 10:02:33,340 - INFO - SeDebugPrivilege                          Debug programs                                                     Disabled
+2024-07-10 10:02:33,341 - INFO - SeSystemEnvironmentPrivilege              Modify firmware environment values                                 Disabled
+2024-07-10 10:02:33,341 - INFO - SeChangeNotifyPrivilege                   Bypass traverse checking                                           Enabled 
+2024-07-10 10:02:33,341 - INFO - SeRemoteShutdownPrivilege                 Force shutdown from a remote system                                Disabled
+2024-07-10 10:02:33,347 - INFO - SeUndockPrivilege                         Remove computer from docking station                               Disabled
+2024-07-10 10:02:33,347 - INFO - SeManageVolumePrivilege                   Perform volume maintenance tasks                                   Disabled
+2024-07-10 10:02:33,349 - INFO - SeImpersonatePrivilege                    Impersonate a client after authentication                          Enabled 
+2024-07-10 10:02:33,350 - INFO - SeCreateGlobalPrivilege                   Create global objects                                              Enabled 
+2024-07-10 10:02:33,351 - INFO - SeIncreaseWorkingSetPrivilege             Increase a process working set                                     Disabled
+2024-07-10 10:02:33,352 - INFO - SeTimeZonePrivilege                       Change the time zone                                               Disabled
+2024-07-10 10:02:33,353 - INFO - SeCreateSymbolicLinkPrivilege             Create symbolic links                                              Disabled
+2024-07-10 10:02:33,356 - INFO - SeDelegateSessionUserImpersonatePrivilege Obtain an impersonation token for another user in the same session Disabled
